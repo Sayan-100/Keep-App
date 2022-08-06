@@ -1,2 +1,2 @@
 # Keep-App
-Please type npm innstall before use
+Please type npm install before use
